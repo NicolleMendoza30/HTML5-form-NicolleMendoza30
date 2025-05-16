@@ -1,0 +1,38 @@
+.card-information{
+    display: flex;
+}
+.name-last-name{
+    display: flex;
+    
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: gainsboro ;
+    width: 101%;
+    padding: 1px;
+
+
+}
+.location{
+    display: flex;
+    
+    
+}
+.last-information{
+    display: flex;
+}
+.container{
+    background-color: whitesmoke;
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: gainsboro;
+    padding: 1%;
+    width: 101%;
+    
+    
+}
